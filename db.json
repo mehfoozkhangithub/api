@@ -54,6 +54,17 @@
       "cost": 22,
       "borrow": "true",
       "id": 1
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
+      "name": "mehfooz",
+      "author": "neraj",
+      "genere": "hello",
+      "edition": "neraj",
+      "publish": "2022-12-22",
+      "cost": 223,
+      "borrow": "true",
+      "id": 1
     }
   ],
   "user": []
