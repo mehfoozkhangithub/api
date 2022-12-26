@@ -1,65 +1,10 @@
 {
   "data": [
     {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
+      "image": "https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717__480.jpg",
+      "name": "Planet",
       "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 567,
-      "borrow": "true",
-      "id": 1
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 99,
-      "borrow": "true",
-      "id": 1
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 77,
-      "borrow": "true",
-      "id": 1
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 111,
-      "borrow": "true",
-      "id": 1
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 22,
-      "borrow": "true",
-      "id": 1
-    },
-    {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
+      "genere": "Science",
       "edition": "neraj",
       "publish": "2022-12-22",
       "cost": 223,
@@ -67,25 +12,48 @@
       "id": 1
     },
     {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 223,
-      "borrow": "true",
-      "id": 1
-    }, {
-      "image": "https://cdn.pixabay.com/photo/2020/12/02/01/06/chipmunk-5795916_640.jpg",
-      "name": "mehfooz",
-      "author": "neraj",
-      "genere": "hello",
-      "edition": "neraj",
-      "publish": "2022-12-22",
-      "cost": 223,
-      "borrow": "true",
-      "id": 1
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "Fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://cdn.pixabay.com/photo/2018/01/15/19/45/sunset-3084651__480.jpg",
+      "book_name": "Habits",
+      "author": "Rowling sons",
+      "genre": "Business",
+      "edition": "1999",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2017/07/01/16/21/book-2461942__480.png",
+      "book_name": "Future",
+      "author": "Aman Khan",
+      "genre": "Tech",
+      "edition": "2000",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id":5,
+      "image_url": "https://cdn.pixabay.com/photo/2015/04/12/08/09/books-718583__480.png",
+      "book_name": "Future",
+      "author": "Mehfooz Khan",
+      "genre": "Tech",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
     }
   ],
   "user": []
