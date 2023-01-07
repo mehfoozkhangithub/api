@@ -1,0 +1,60 @@
+// {
+//   "data": [
+//     {
+//       "image": "https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717__480.jpg",
+//       "name": "Planet",
+//       "author": "neraj",
+//       "genere": "Science",
+//       "edition": "neraj",
+//       "publish": "2022-12-22",
+//       "cost": 223,
+//       "borrow": "true",
+//       "id": 1
+//     },
+//     {
+//       "id": 2,
+//       "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+//       "name": "Harry Potter and the Philosopher's Stone",
+//       "author": "J. K. Rowling",
+//       "genere": "Fiction",
+//       "edition": "2020",
+//       "publish": "Bloomsbury",
+//       "cost": 1299,
+//       "borrowed": false
+//     },
+//     {
+//       "id": 3,
+//       "image": "https://cdn.pixabay.com/photo/2018/01/15/19/45/sunset-3084651__480.jpg",
+//       "name": "Habits",
+//       "author": "Rowling sons",
+//       "genere": "Business",
+//       "edition": "1999",
+//       "publish": "Bloomsbury",
+//       "cost": 1299,
+//       "borrowed": false
+//     },
+//     {
+//       "id": 4,
+//       "image": "https://cdn.pixabay.com/photo/2017/07/01/16/21/book-2461942__480.png",
+//       "name": "Future",
+//       "author": "Aman Khan",
+//       "genere": "Tech",
+//       "edition": "2000",
+//       "publish": "Bloomsbury",
+//       "cost": 1299,
+//       "borrowed": false
+//     },
+//     {
+//       "id":5,
+//       "image": "https://cdn.pixabay.com/photo/2015/04/12/08/09/books-718583__480.png",
+//       "name": "Future",
+//       "author": "Mehfooz Khan",
+//       "genere": "Tech",
+//       "edition": "2021",
+//       "publish": "Bloomsbury",
+//       "cost": 1299,
+//       "borrowed": false
+//     }
+//   ],
+//   "user": []
+// }
